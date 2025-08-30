@@ -1,6 +1,6 @@
 # ExamPortal
-This is a online exam portal in which student can login and attempt the test. This project is made by using springboot and angular technology.
-Springboot is used for backend and Angular is used for frontend.
+An Online Exam Portal where students can securely log in and attempt tests. The platform is built using Spring Boot for the backend and Angular for the frontend, 
+ensuring a seamless and secure user experience.
 
  Key Features:-
 
